@@ -1,5 +1,5 @@
 
-load_dotenv()
+
 import os
 import json
 import logging
